@@ -1,0 +1,29 @@
+{
+  "countdown": {
+    "title": "New Year Countdown",
+    "year": 2026,
+    "month": 1,
+    "day": 1,
+    "hour": 0,
+    "minute": 0,
+    "second": 0
+  },
+  "affirmations": [
+    "You are insanely talented",
+    "You are enough.",
+    "You make things better.",
+    "You are deeply valued.",
+    "I am proud of you."
+  ],
+  "motivation": [
+    "One step is still progress.",
+    "Rest is part of growth.",
+    "Keep going. Gently."
+  ],
+  "down": [
+    "You are not a burden.",
+    "This feeling will pass.",
+    "You are loved",
+    "I am always with you."
+  ]
+}
