@@ -1,26 +1,54 @@
 {
-  "countdown": {
-    "title": "New Year Countdown",
-    "year": 2026,
-    "month": 1,
-    "day": 1,
-    "hour": 0,
-    "minute": 0,
-    "second": 0
-  },
-  "affirmations": [
+  "Countdowns": [
+    {
+      "title": "New Year",
+      "datetime": "2026-01-01T00:00:00"
+    },
+    {
+      "title": "Bebu Teacher's Day",
+      "datetime": "2026-01-07T00:00:00"
+    },
+    {
+      "title": "Bebu-1 B'day",
+      "datetime": "2026-03-26T00:00:00"
+    },
+    {
+      "title": "Bebu-2 B'day",
+      "datetime": "2026-07-08T00:00:00"
+    },
+    {
+      "title": "Bebuversary",
+      "datetime": "2026-09-11T00:00:00"
+    }    
+  ],
+
+  
+  "Reminders": [
+    "Paani peeeyo maooo",
+    "Kela chan khao",
+    "Khaana khaa lo pweaseeee",
+    "Sunlight me bask chan karloooo",
+    "Soooo jaoooo time seeee"
+  ], 
+
+  
+  "Affirmations": [
     "You are insanely talented",
     "You are enough.",
     "You make things better.",
     "You are deeply valued.",
     "I am proud of you."
   ],
-  "motivation": [
+
+  
+  "Motivation": [
     "One step is still progress.",
     "Rest is part of growth.",
     "Keep going. Gently."
   ],
-  "down": [
+
+  
+  "Down": [
     "You are not a burden.",
     "This feeling will pass.",
     "You are loved",
